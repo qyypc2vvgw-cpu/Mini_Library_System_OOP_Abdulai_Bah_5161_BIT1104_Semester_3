@@ -9,7 +9,7 @@ The system allows adding, searching, updating, deleting, borrowing, and returnin
 
 
 
-## 🚀 Features
+##  Features
   Add, search, update, and delete books
   Add, update, and delete members
   Borrow and return books with availability tracking
